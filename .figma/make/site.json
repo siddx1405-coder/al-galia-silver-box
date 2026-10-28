@@ -1,0 +1,10 @@
+{
+  "description": "Helps create polished, professional websites from customer details, turning project requirements into an aesthetic online presence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
